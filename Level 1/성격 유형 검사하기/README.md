@@ -13,9 +13,7 @@
 
 ## Learned
 
-1. public void Add (TKey key, TValue value);
-   Adds the specified key and value to the dictionary.
-3. public bool TryGetValue (TKey key, out TValue value);
-   Gets the value associated with the specified key.
-5. match.FirstOrDefault(x => x.Value[0] == i && x.Value[1] == 0).Key
-6. string간의 덧셈 연산 가능
+1. Add [.](https://www.notion.so/Add-60dafc7b495d409bb3ce0f272163ca29?pvs=4)
+2. TryGetValue [.](https://www.notion.so/TryGetValue-9fd7dc3e73e342c5a3d13305617b1c62?pvs=4)
+3. FirstOrDefault [.](https://www.notion.so/FirstOrDefault-1aee9651062442539b4c45b52f2932f4?pvs=4https://www.notion.so/FirstOrDefault-1aee9651062442539b4c45b52f2932f4?pvs=4)
+4. string간의 덧셈 연산 가능
