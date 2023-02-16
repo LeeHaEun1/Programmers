@@ -2,4 +2,4 @@
 
 **2022 KAKAO TECH INTERNSHIP**
 
-[프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+[프로그래머스 문제 & 답안](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
