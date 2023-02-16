@@ -11,6 +11,9 @@
 
 ![white_abstract_background-wallpaper-1920x1080](https://user-images.githubusercontent.com/111097397/219293135-6256d9b0-c15a-4c24-82cf-cc55a8346613.jpg)
 
-## Methods
+## Learned
 
-h
+1. match.Add("R", new int[]{0, 0});
+2. match.TryGetValue(survey[i].Substring(0, 1), out int[] idx)
+3. match.FirstOrDefault(x => x.Value[0] == i && x.Value[1] == 0).Key
+4. string간의 덧셈 연산 가능
