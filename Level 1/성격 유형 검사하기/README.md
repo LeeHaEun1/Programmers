@@ -9,7 +9,8 @@
 
 ## 풀이 방법
 
-![white_abstract_background-wallpaper-1920x1080](https://user-images.githubusercontent.com/111097397/219293135-6256d9b0-c15a-4c24-82cf-cc55a8346613.jpg)
+![성격유형검사하기](https://user-images.githubusercontent.com/111097397/219320968-e5f3715d-67f9-4e1d-85cf-c4bf7cf55081.jpg)
+
 
 ## Learned
 
