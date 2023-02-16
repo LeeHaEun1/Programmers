@@ -13,7 +13,9 @@
 
 ## Learned
 
-1. match.Add("R", new int[]{0, 0});
-2. match.TryGetValue(survey[i].Substring(0, 1), out int[] idx)
-3. match.FirstOrDefault(x => x.Value[0] == i && x.Value[1] == 0).Key
-4. string간의 덧셈 연산 가능
+1. public void Add (TKey key, TValue value);
+   Adds the specified key and value to the dictionary.
+3. public bool TryGetValue (TKey key, out TValue value);
+   Gets the value associated with the specified key.
+5. match.FirstOrDefault(x => x.Value[0] == i && x.Value[1] == 0).Key
+6. string간의 덧셈 연산 가능
