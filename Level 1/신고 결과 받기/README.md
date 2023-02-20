@@ -14,7 +14,6 @@
 
 ## Learned
 
-1. Add [.](https://www.notion.so/Add-60dafc7b495d409bb3ce0f272163ca29?pvs=4)
-2. TryGetValue [.](https://www.notion.so/TryGetValue-9fd7dc3e73e342c5a3d13305617b1c62?pvs=4)
-3. FirstOrDefault [.](https://www.notion.so/FirstOrDefault-1aee9651062442539b4c45b52f2932f4?pvs=4https://www.notion.so/FirstOrDefault-1aee9651062442539b4c45b52f2932f4?pvs=4)
-4. string간의 덧셈 연산 가능
+1. Distinct [.](https://www.notion.so/Distinct-095a7f3ab4c847b9a53877bd0dc6ad2c?pvs=4)
+2. ToArray [.](https://www.notion.so/ToArray-8711b84a0c5e4e99a21cd49246f0a2c6?pvs=4)
+3. Split [.](https://www.notion.so/Split-05e70c02b7be4ce29d1030cdc2314d90?pvs=4)
