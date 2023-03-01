@@ -7,6 +7,7 @@ public class Solution
     {
         int[] answer = new int[] {};
         
+        
         // [1] privacies의 정보 분할
         // [1-1] 날짜와 약관 종류 분할
         string[] p_dates = new string[privacies.Length];
@@ -28,12 +29,14 @@ public class Solution
             days[i] = int.Parse(p_dates[i].Split(".")[2]);
         }
         
+        
         // [2] terms의 정보를 Dictionary 형태로 변환
         var dict = new Dictionary<string, int>();
         for(int i = 0; i < terms.Length; i++)
         {
             dict.Add(terms[i].Split(" ")[0], int.Parse(terms[i].Split(" ")[1]));
         }
+        
         
         // [3] 만료일자 산정
         int[] exp_days = new int[days.Length];
@@ -76,6 +79,7 @@ public class Solution
             }
         }
         
+        
         // [4] today와 만료일자 비교 (년-월-일 순으로 비교)
         List<int> temp_answer = new List<int>();
         for(int i = 0; i < exp_years.Length; i++)
@@ -92,7 +96,7 @@ public class Solution
                 if(int.Parse(today.Split(".")[1]) > exp_months[i])
                 {
                     temp_answer.Add(i+1);
-                    Console.WriteLine("M "+(i+1)); // 여기서 1-4가 걸린다..
+                    Console.WriteLine("M "+(i+1));
                 }
                 else if(int.Parse(today.Split(".")[1]) == exp_months[i])
                 {
@@ -105,6 +109,7 @@ public class Solution
                 }
             }
         }
+        
         
         // [5] List의 값들을 배열에 담기
         // System.IndexOutOfRangeException
