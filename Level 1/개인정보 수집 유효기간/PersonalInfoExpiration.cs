@@ -6,8 +6,7 @@ public class Solution
     public int[] solution(string today, string[] terms, string[] privacies) 
     {
         int[] answer = new int[] {};
-        
-        
+                
         // [1] privacies의 정보 분할
         // [1-1] 날짜와 약관 종류 분할
         string[] p_dates = new string[privacies.Length];
