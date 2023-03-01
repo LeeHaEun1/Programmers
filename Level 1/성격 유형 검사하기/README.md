@@ -4,7 +4,7 @@
 
 정답률: 43% (23.02.16 기준)
 
-[프로그래머스 문제 & 답안](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+[프로그래머스 문제 설명](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 
 
 ## 풀이 방법
