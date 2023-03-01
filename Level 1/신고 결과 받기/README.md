@@ -9,8 +9,6 @@
 
 ## 풀이 방법
 
-![성격유형검사하기(2)](https://user-images.githubusercontent.com/111097397/219321529-baf22880-7803-4054-8fd6-ed055feb5057.jpg)
-
 
 ## Learned
 
