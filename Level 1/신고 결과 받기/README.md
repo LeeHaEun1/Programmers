@@ -9,6 +9,7 @@
 
 ## 풀이 방법
 
+![신고 결과 받기](https://user-images.githubusercontent.com/111097397/222901340-7815c397-b8c8-4d55-a737-74515ef5ce05.png)
 
 ## Learned
 
